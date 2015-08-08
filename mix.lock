@@ -1,0 +1,8 @@
+%{"exjson": {:git, "git://github.com/guedes/exjson.git", "9d428acfa2b55d070576e71cef55e2e0bad8c5ab", []},
+  "exon": {:git, "git://github.com/betawaffle/exon.git", "3ee86c3c22d600f048aa68336d0eaabf8b0e8103", []},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "49f335492aca5516495199dd81dd18b845ebaa69", []},
+  "jiffy": {:git, "git://github.com/davisp/jiffy.git", "e008c0c3fffb4f509c5ae6b73b960663d778f231", []},
+  "jsex": {:git, "git://github.com/talentdeficit/jsex.git", "53db5d995b1b070e3883381e9acb195969137f67", []},
+  "jsx": {:hex, :jsx, "2.6.2"},
+  "mochijson2": {:git, "git://github.com/bjnortier/mochijson2.git", "e162b7f5be57b8a1fcf5cc99aa4948864af42bba", []},
+  "poison": {:git, "git://github.com/devinus/poison.git", "53de16a8dcb67d896d1d2b8ea91b9d506b8d83f4", []}}
