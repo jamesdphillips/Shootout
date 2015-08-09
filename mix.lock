@@ -4,5 +4,8 @@
   "jiffy": {:git, "git://github.com/davisp/jiffy.git", "e008c0c3fffb4f509c5ae6b73b960663d778f231", []},
   "jsex": {:git, "git://github.com/talentdeficit/jsex.git", "53db5d995b1b070e3883381e9acb195969137f67", []},
   "jsx": {:hex, :jsx, "2.6.2"},
+  "message_pack": {:git, "git://github.com/mururu/msgpack-elixir.git", "4f0063f5e7b010dcd3e8ca8f1b8650f67ea08dea", []},
   "mochijson2": {:git, "git://github.com/bjnortier/mochijson2.git", "e162b7f5be57b8a1fcf5cc99aa4948864af42bba", []},
+  "msgpack": {:git, "git://github.com/msgpack/msgpack-erlang.git", "7cdfd961f230e8b0792e417ad4212a368e15bc37", []},
+  "msgpax": {:git, "git://github.com/lexmag/msgpax.git", "36e605a8413f1cd30886efd7ccf5074eb955d20d", []},
   "poison": {:git, "git://github.com/devinus/poison.git", "53de16a8dcb67d896d1d2b8ea91b9d506b8d83f4", []}}

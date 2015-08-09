@@ -17,7 +17,10 @@ defmodule Shootout.Mixfile do
     [
       {:jiffy, github: "davisp/jiffy"},
       {:mochijson2, github: "bjnortier/mochijson2"},
-      {:poison, github: "devinus/poison"}
+      {:poison, github: "devinus/poison"},
+      {:message_pack, github: "mururu/msgpack-elixir"},
+      {:msgpax, github: "lexmag/msgpax"},
+      {:msgpack, github: "msgpack/msgpack-erlang"}
     ]
   end
 end
